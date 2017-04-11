@@ -1,2 +1,2 @@
 # homebrew-extra
-extra homebrew tools by Bill
+extra homebrew tools
