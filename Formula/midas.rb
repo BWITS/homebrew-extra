@@ -13,4 +13,3 @@ class Midas < Formula
     system "midas"
   end
 end
-
